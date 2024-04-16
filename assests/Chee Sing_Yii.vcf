@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Chee Sing; Yii
+FN;CHARSET=UTF-8:Yii Chee Sing 
+TEL;type=CELL;type=pref:0168867430
+EMAIL;CHARSET=UTF-8;WORK;INTERNET:support@ermplanet.my
+URL;type=website:https://ermplanet.my
+END:VCARD
